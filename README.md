@@ -14,6 +14,7 @@ FEATURES :
 5.Easy-to-use interface with minimal setup.
 
 Technologies Used:
+
 1.Python: Core language used to build the project.
 
 2.OpenCV: Used for real-time image processing and hand detection.
